@@ -1,6 +1,6 @@
 
 Credits:
-	Hyperspace by HTML5 UP
+	Design : Hyperspace by HTML5 UP
 	Demo Images:
 		Unsplash (unsplash.com)
 
